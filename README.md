@@ -10,7 +10,7 @@ Every 2 minutes, a child dies of malaria [link](https://www.who.int/news-room/fa
 ## How to use this Project
 Step 1: Open the [notebook.ipynb](https://github.com/alihussainia/Malaria_Edge_Detection/blob/master/notebook.ipynb) (Available in this repository).
 
-Step 2: Click on this Button [<img src="https://github.com/alihussainia/PIAIC_Sir_Ali_-_Sir_Hamza/blob/master/Screenshot%20from%202020-03-09%2003-06-57.png">](https://colab.research.google.com/github/alihussainia/Malaria_Edge_Detection/blob/master/notebook.ipynb)
+Step 2: Click on this Button [<img src="https://github.com/alihussainia/PIAIC_Sir_Ali_-_Sir_Hamza/blob/master/Screenshot%20from%202020-03-09%2003-06-57.png">](https://colab.research.google.com/github/alihussainia/openvino-colab/blob/master/detailed_demo.ipynb)
 
 Step 3: Hover to the Menu bar --> Click on File Button --> Click on Save a copy in Drive
 
